@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["ismael.marin@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "Basic Site Rails Engine"
-  s.description = "This Engine Gives you a basic landing page site with some features"
+  s.description = "Basic landing page site with some features, using mountable Rails Engine to do it"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
