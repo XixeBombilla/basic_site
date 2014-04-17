@@ -7,7 +7,7 @@ require "basic_site/version"
 Gem::Specification.new do |s|
   s.name        = "basic_site"
   s.version     = BasicSite::VERSION
-  s.authors     = ["Ismael G Marin C"]
+  s.authors     = ["Ismael G Marin C, Gize Carolina Bonilla M"]
   s.email       = ["ismael.marin@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "Basic Site Rails Engine"
